@@ -1,4 +1,4 @@
-# [James Traina](https://sites.google.com/site/trainajames/)'s Preprint Repo
+# [James Traina](https://sites.google.com/site/trainajames/)'s Working Paper Repo
 
 This repo is for my working papers that are revised too often for [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2227781).
 
